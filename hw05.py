@@ -1,8 +1,6 @@
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-import seaborn as sns
-import matplotlib.pyplot as plt
 
 url = 'https://github.com/esnt/Data/raw/main/Names/popular_names.csv'
 
